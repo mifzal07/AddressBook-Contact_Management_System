@@ -4,11 +4,6 @@
 /*
 Documentation
 ------------------------------------------------------------
-Name : Muhammed Mifzal C
-Student Id : 26018_119
-Batch Id : 26018D
-Start Date : 11/09/2026
-End Date : 18/09/2026
 
 Description             : The following functions are implemented in the Address Book project to manage contact information efficiently.
                           The project provides options to create, search, edit, delete, sort, display and store contacts.
